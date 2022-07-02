@@ -1,5 +1,5 @@
 ---
-title: "\U0001F47B A Spooky Garden"
+title: "👻👻 A Spooky Garden"
 published: true
 ---
 
