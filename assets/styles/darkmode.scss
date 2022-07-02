@@ -24,12 +24,12 @@
     transition: opacity 0.1s ease;
   }
 }
-
+ 
 .toggle:checked ~ label {
   & > #dayIcon {
     opacity: 0;
   }
-  & > #nightIcon {
+  & > #nightIcon{
     opacity: 1;
   }
 }

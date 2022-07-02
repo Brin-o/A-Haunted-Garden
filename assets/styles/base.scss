@@ -6,14 +6,22 @@
   --lt-colours-gray: var(--outlinegray) !important;
 }
 
-h1, h2, h3, h4, h5, h6, ol, ul, thead {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ol,
+ul,
+thead {
   font-family: Inter;
   color: var(--dark);
   font-weight: revert;
   margin: revert;
   padding: revert;
 
-  &:hover > .hanchor {
+  &:hover>.hanchor {
     opacity: 1;
   }
 }
@@ -27,7 +35,9 @@ h1, h2, h3, h4, h5, h6, ol, ul, thead {
 
 }
 
-p, ul, text {
+p,
+ul,
+text {
   font-family: 'Source Sans Pro', sans-serif;
   color: var(--gray);
   fill: var(--gray);
@@ -50,19 +60,23 @@ p, ul, text {
 }
 
 .mainTOC details[open] summary {
-    cursor: zoom-out;
+  cursor: zoom-out;
 }
 
-#TableOfContents > ol {
+#TableOfContents>ol {
   counter-reset: section;
   margin-left: 0em;
   padding-left: 1.5em;
-  & > li {
+
+  &>li {
     counter-increment: section;
-    & > ol {
+
+    &>ol {
       counter-reset: subsection;
-      & > li {
+
+      &>li {
         counter-increment: subsection;
+
         &::marker {
           content: counter(section) "." counter(subsection) "  ";
         }
@@ -70,11 +84,12 @@ p, ul, text {
     }
   }
 
-  & > li::marker {
+  &>li::marker {
     content: counter(section) "  ";
   }
 
-  & > li::marker, & > li > ol > li::marker {
+  &>li::marker,
+  &>li>ol>li::marker {
     font-family: Source Sans Pro;
     font-weight: 700;
   }
@@ -99,7 +114,9 @@ sup {
   line-height: 0
 }
 
-p, tbody, li {
+p,
+tbody,
+li {
   font-family: Source Sans Pro;
   color: var(--gray);
   line-height: 1.5em;
@@ -120,7 +137,8 @@ table {
   padding: 1.5em;
 }
 
-td, th {
+td,
+th {
   padding: 0.1em 0.5em;
 }
 
@@ -140,7 +158,7 @@ td, th {
     opacity: 0.2;
   }
 
-  & > li {
+  &>li {
     text-align: center;
     display: inline-block;
 
@@ -155,18 +173,19 @@ td, th {
 }
 
 .section {
-  & h3 > a {
+  & h3>a {
     font-weight: 700;
     font-family: Inter;
     margin: 0;
   }
+
   & p {
     margin-top: 0;
   }
 }
 
 article {
-  & > .meta {
+  &>.meta {
     margin: -1.5em 0 1em 0;
     opacity: 0.7;
   }
@@ -177,18 +196,18 @@ article {
 
     &.internal-link {
       text-decoration: none;
-      background-color: transparentize(#8f9fa9, 0.85);
+      background-color: transparentize(#d47272, 0.85);
       padding: 0 0.1em;
       margin: auto -0.1em;
       border-radius: 3px;
 
       &.broken {
-        opacity: 0.5;
-        background-color: transparent; 
+        opacity: 0.5; 
+        background-color: transparent;
       }
     }
   }
-  
+
   & p {
     overflow-wrap: anywhere;
   }
@@ -199,23 +218,25 @@ article {
   padding-left: 0;
 
   & .meta {
-    & > h1 {
+    &>h1 {
       margin: 0;
     }
-    & > p {
+
+    &>p {
       margin: 0;
     }
   }
 
-  & > li {
+  &>li {
     display: inline-block;
     margin: 0.4em 0;
   }
 
-  & > li > a {
+  &>li>a {
     border-radius: 8px;
     border: var(--outlinegray) 1px solid;
     padding: 0.2em 0.5em;
+
     &::before {
       content: "#";
       margin-right: 0.3em;
@@ -229,7 +250,7 @@ article {
   font-size: 0.9rem;
 }
 
-sup > a {
+sup>a {
   text-decoration: none;
   padding: 0 0.1em 0 0.2em;
 }
@@ -266,7 +287,12 @@ html {
   scroll-behavior: smooth;
 
   &:lang(ar) {
-    & p, & h1, & h2, & h3, article {
+
+    & p,
+    & h1,
+    & h2,
+    & h3,
+    article {
       direction: rtl;
       text-align: right;
     }
@@ -284,16 +310,22 @@ body {
 }
 
 @keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
 }
 
 footer {
   margin-top: 4em;
   text-align: center;
+
   & ul {
     padding-left: 0;
-  } 
+  }
 }
 
 hr {
@@ -323,16 +355,16 @@ hr {
     flex-direction: column;
   }
 
-  & > * {
+  &>* {
     flex: 1 0 0;
   }
 
-  & > .backlinks-container {
-    & > ul {
+  &>.backlinks-container {
+    &>ul {
       list-style: none;
       padding-left: 0;
 
-      & > li {
+      &>li {
         margin: 0.5em 0;
         padding: 0.25em 1em;
         border: var(--outlinegray) 1px solid;
@@ -347,7 +379,7 @@ hr {
     box-sizing: border-box;
     min-height: 250px;
 
-    & > svg {
+    &>svg {
       margin-bottom: -5px;
 
     }
@@ -358,7 +390,7 @@ hr {
   margin-top: 30vh;
 }
 
-article > h1 {
+article>h1 {
   font-size: 2em;
 }
 
@@ -367,21 +399,21 @@ header {
   flex-direction: row;
   align-items: center;
 
-  & > h1 {
+  &>h1 {
     font-size: 2em;
   }
 
-  & > nav {
+  &>nav {
     @media all and (max-width: 600px) {
       display: none;
     }
   }
 
-  & > .spacer {
+  &>.spacer {
     flex: 1 1 auto;
   }
 
-  & > svg {
+  &>svg {
     cursor: pointer;
     width: 18px;
     min-width: 18px;
@@ -411,7 +443,7 @@ header {
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
 
-  & > div {
+  &>div {
     width: 50%;
     margin-top: 15vh;
     margin-left: auto;
@@ -421,7 +453,7 @@ header {
       width: 90%;
     }
 
-    & > * {
+    &>* {
       width: 100%;
       border-radius: 4px;
       background: var(--light);
@@ -429,7 +461,7 @@ header {
       margin-bottom: 2em;
     }
 
-    & > input {
+    &>input {
       box-sizing: border-box;
       padding: 0.5em 1em;
       font-family: Inter, sans-serif;
@@ -442,7 +474,7 @@ header {
       }
     }
 
-    & > #results-container {
+    &>#results-container {
       & .result-card {
         padding: 1em;
         cursor: pointer;
@@ -462,7 +494,8 @@ header {
         background: var(--light);
         outline: none;
 
-        &:hover, &:focus {
+        &:hover,
+        &:focus {
           background: rgba(180, 180, 180, 0.15);
         }
 
@@ -477,7 +510,8 @@ header {
           border-bottom: 1px solid var(--outlinegray);
         }
 
-        & > h3, & > p {
+        &>h3,
+        &>p {
           margin: 0;
         }
       }
@@ -495,7 +529,7 @@ header {
   list-style: none;
   padding-left: 0;
 
-  & > li {
+  &>li {
     border: 1px solid var(--outlinegray);
     border-radius: 5px;
     padding: 0 1em;
@@ -519,11 +553,13 @@ header {
     opacity: 0;
     visibility: hidden;
   }
+
   1% {
     display: inline-block;
     opacity: 0;
     transform: translate(-50%, 40%);
   }
+
   100% {
     opacity: 1;
     visibility: visible;
@@ -545,7 +581,7 @@ header {
   transition: opacity 0.2s ease, transform 0.2s ease;
   user-select: none;
   overflow-wrap: anywhere;
-  box-shadow: 6px 6px 36px 0px rgba(0,0,0,0.25);
+  box-shadow: 6px 6px 36px 0px rgba(0, 0, 0, 0.25);
 
   @media all and (max-width: 600px) {
     display: none !important;
@@ -559,19 +595,20 @@ header {
     animation: dropin 0.2s ease;
   }
 
-  & > h3 {
+  &>h3 {
     font-size: 1rem;
     margin: 0.25em 0;
   }
 
-  & > .meta {
+  &>.meta {
     margin-top: 0.25em;
     opacity: 0.5;
     font-family: "JetBrains Mono", monospace;
     font-size: 0.8rem;
   }
 
-  & > p, & > a {
+  &>p,
+  &>a {
     margin: 0;
     font-weight: 400;
     user-select: none;
@@ -591,5 +628,3 @@ header {
     padding: 0 1em;
   }
 }
-
-
