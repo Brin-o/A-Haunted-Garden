@@ -31,7 +31,7 @@ enableFooter: true
 enableContextualBacklinks: true
 
 # whether to show a section of recent notes on the home page
-enableRecentNotes: true
+enableRecentNotes: false
 
 # page description used for SEO
 description:
@@ -42,8 +42,8 @@ page_title:
   "👻 A Haunted Garden"
 
 # links to show in the footer
-links:
-  - link_name: Brin
-    link: https://twitter.com/being_brin
-  - link_name: Jen
-    link: https://twitter.com/itsjensim
+# links:
+#   - link_name: Brin
+#     link: https://twitter.com/being_brin
+#   - link_name: Jen
+#     link: https://twitter.com/itsjensim
