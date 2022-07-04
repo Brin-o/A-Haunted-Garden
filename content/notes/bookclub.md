@@ -8,5 +8,5 @@ In the book club we read books!
 
 Current bookclub schedule:
 - The Common Toad, George Orwell
-	- [Brin's Notes](notes/bookclub/toad_brin.md)
+	- [[toad_brin]]
     - [Jen's Notes](notes/bookclub/toad_jen.md)
