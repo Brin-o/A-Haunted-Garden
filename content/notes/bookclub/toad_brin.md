@@ -1,5 +1,5 @@
 ---
-title: "Brin's Notes:The Common Toad “
+title: "Brin's Notes:The Common Toad"
 ---
 
 ### General Notes
@@ -10,6 +10,9 @@ title: "Brin's Notes:The Common Toad “
 ### The Common Toad
 - His thoughts on the "need" to be in the nature remind me a lot of what I read/know so far about Walden.
 - Are we common toads that need to bury themselves into the ground every so often? 
+- Jen’s thoughts:
+	- living in a city to appreciate the nature
+	- *politically reprehensible to enjoy something that is natural*
 
 
 ### In Defence of P. G. Wodehouse
@@ -27,6 +30,11 @@ title: "Brin's Notes:The Common Toad “
 	- It is an idea of creating a common good that everyone can benefit from, even if it stems from a simple action
 		- Donating blood as a parallel? 
 > … a beautiful tree which has rested the eyes of generation after generation and must surely have outweighed any bad effects which he produce …
+- Jen’s comments
+	- the planting is not tangential
+	- it’s about the impact of actions
+	- shepherd swaine poem as a feminist reading
+	- Humans as nuanced beings (there is more to us than a good/bad deed)
 
 
 ### Politics vs Literature: An Examination of Gulliver's Travels
@@ -34,7 +42,7 @@ title: "Brin's Notes:The Common Toad “
 	- Or rather, I feel he is obsessive with the *character* of Swift, not so much the message in his writing 
 	- Same tendency is show in Wodehouse essay
 
-> (p61) This ignores the fact that throughout history a similar struggle between the progress and reac­ tion has been raging, and that the best books of any one age have always been written from several different view­ points, some of them palpably more false than others
+> (p61) This ignores the fact that throughout history a similar struggle between the progress and reac­tion has been raging, and that the best books of any one age have always been written from several different view­ points, some of them palpably more false than others
 
 
 - Holy books as the rewriting of same morals from different perspectives
