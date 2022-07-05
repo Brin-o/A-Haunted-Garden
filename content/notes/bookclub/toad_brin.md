@@ -44,7 +44,7 @@ tags:
 	- Or rather, I feel he is obsessive with the *character* of Swift, not so much the message in his writing 
 	- Same tendency is show in Wodehouse essay
 
-> (p61) This ignores the fact that throughout history a similar struggle between the progress and reac­tion has been raging, and that the best books of any one age have always been written from several different view­ points, some of them palpably more false than others
+> (p61) This ignores the fact that throughout history a similar struggle between the progress and reaction has been raging, and that the best books of any one age have always been written from several different view[]() points, some of them palpably more false than others
 
 
 - Holy books as the rewriting of same morals from different perspectives
