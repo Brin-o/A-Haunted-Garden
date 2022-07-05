@@ -1,5 +1,7 @@
 ---
 title: "Brin's Notes:The Common Toad"
+- bookclub
+- notetaking
 ---
 
 ### General Notes
@@ -13,7 +15,6 @@ title: "Brin's Notes:The Common Toad"
 - Jen’s thoughts:
 	- living in a city to appreciate the nature
 	- *politically reprehensible to enjoy something that is natural*
-
 
 ### In Defence of P. G. Wodehouse
 - Cancel culture got Wodehouse lol

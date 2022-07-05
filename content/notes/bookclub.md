@@ -2,11 +2,12 @@
 title: "The Bookclub"
 tags:
 - reading
+- bookclub
 ---
 
 In the book club we read books!
 
 Current bookclub schedule:
-- The Common Toad, George Orwell
-	- [[toad_brin.md]]
-    - [Jen's Notes](notes/bookclub/toad_jen.md)
+- The Common Toad, George Orwell (1946) – 2022.07.04
+	- [Brin’s Notes](bookclub/toad_brin.md)
+- We Had To Remove This Post, Hanna Bervoets (2022)
