@@ -1,4 +1,4 @@
 ---
 title: "about_gardening"
 ---
-This is where I tell you how we garden! Yay!
+Welcome to the garden. It's a bit haunted, but it still wont grow itself!
