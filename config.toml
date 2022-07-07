@@ -1,4 +1,4 @@
-baseURL = "https://www.ahaunted.garden/"
+baseURL = "https://ahaunted.garden/"
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
 pygmentsUseClasses = true
