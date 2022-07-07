@@ -1,8 +1,11 @@
 ---
 title: "The Zine Workshop"
 ---
+Small little handcrafted piece of print for each other.
 
-1. Prepare a zine for Jen about how to make zines!
+
+### A list of ideas 
+1. Make a zine about [how to make zines](notes/zine/how2zine.md)
 2. A ghost's guide to astrology
 3. a haunted crossword puzzle
 4. frog and toadification of ghosts

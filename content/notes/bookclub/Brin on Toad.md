@@ -8,7 +8,7 @@ tags:
 ### General Notes
 - I have read Orwells classics – Animal Farm & 1984
 - Most of the mentioned authors and books are alien to me, my context comes from purely reading the book
-- My ability to analyse literature is very amature
+- My ability to analyse literature is very amateur
 
 ### The Common Toad
 - His thoughts on the "need" to be in the nature remind me a lot of what I read/know so far about Walden.
