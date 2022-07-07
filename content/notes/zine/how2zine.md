@@ -1,5 +1,5 @@
 ---
-title: "How to make zines"
+title: "🤨 How to Zine"
 tags:
 - dyi
 - zine

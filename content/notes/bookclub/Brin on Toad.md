@@ -1,5 +1,5 @@
 ---
-title: "Brin's Notes:The Common Toad"
+title: "📝 Brin's Notes: The Common Toad"
 tags:
 - bookclub
 - notetaking

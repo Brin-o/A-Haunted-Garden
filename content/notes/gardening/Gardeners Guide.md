@@ -1,5 +1,5 @@
 ---
-title: "The Gardeners Guide to the Haunted Garden"
+title: "🧑‍🌾 The Gardeners Guide to the Haunted Garden"
 ---
 This garden needs tending, otherwise the ghosts will get scared and wont show themselves.
 

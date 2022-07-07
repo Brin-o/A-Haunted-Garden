@@ -1,5 +1,5 @@
 ---
-title: "The Zine Workshop"
+title: "🎨 The Zine Workshop"
 ---
 Small little handcrafted piece of print for each other.
 

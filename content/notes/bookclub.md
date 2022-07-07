@@ -1,5 +1,5 @@
 ---
-title: "The Bookclub"
+title: "📚 The Bookclub"
 tags:
 - reading
 - bookclub
