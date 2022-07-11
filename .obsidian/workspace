@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/notes/setup.md",
-            "mode": "preview",
+            "file": "content/notes/zine/how2zine.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/setup.md",
+                "file": "content/notes/zine/how2zine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,9 @@
   },
   "active": "5ae48c143ee8b235",
   "lastOpenFiles": [
+    "content/notes/zine/how2zine.md",
+    "content/notes/zine.md",
+    "content/notes/bookclub.md",
     "content/notes/setup.md",
     "content/notes/showcase.md",
     "content/notes/hosting.md",
