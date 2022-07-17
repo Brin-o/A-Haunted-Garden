@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/notes/zine/how2zine.md",
+            "file": "content/notes/bookclub/Brin on Toad.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255,
-    "collapsed": true
+    "width": 255
   },
   "right": {
     "id": "7c37fff35950e92f",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/zine/how2zine.md",
+                "file": "content/notes/bookclub/Brin on Toad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,14 +89,15 @@
   },
   "active": "5ae48c143ee8b235",
   "lastOpenFiles": [
-    "content/notes/zine/how2zine.md",
-    "content/notes/zine.md",
+    "content/notes/bookclub/Brin on Toad.md",
+    "content/notes/gardening/Gardeners Guide.md",
     "content/notes/bookclub.md",
+    "content/notes/zine.md",
+    "content/_index.md",
+    "content/notes/zine/how2zine.md",
     "content/notes/setup.md",
     "content/notes/showcase.md",
     "content/notes/hosting.md",
-    "content/notes/ignore notes.md",
-    "content/notes/CJK + Latex Support (测试).md",
-    "content/_index.md"
+    "content/notes/ignore notes.md"
   ]
 }
