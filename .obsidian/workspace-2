@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "e11d26bbd85eb764",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ae48c143ee8b235",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/notes/bookclub.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ef52beb5e46c3f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a9d224a05783421",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d29f890d92d7f7e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f812d427d30ec5e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 255
+  },
+  "right": {
+    "id": "7c37fff35950e92f",
+    "type": "split",
+    "children": [
+      {
+        "id": "90994c5643314d9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06b5d8ea73c4ac4d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/notes/bookclub.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5ae48c143ee8b235",
+  "lastOpenFiles": [
+    "content/notes/bookclub/Brin on Toad.md",
+    "content/notes/gardening/Gardeners Guide.md",
+    "content/notes/bookclub.md",
+    "content/notes/zine.md",
+    "content/_index.md",
+    "content/notes/zine/how2zine.md",
+    "content/notes/setup.md",
+    "content/notes/showcase.md",
+    "content/notes/hosting.md",
+    "content/notes/ignore notes.md"
+  ]
+}
