@@ -9,19 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/notes/rituals/Summoning a Frog.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "9fa08309f4ff82aa",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "content/notes/bookclub.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "content/notes/bookclub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9fa08309f4ff82aa",
+  "active": "5ae48c143ee8b235",
   "lastOpenFiles": [
-    "content/notes/rituals/Summoning a Frog.md",
-    "content/notes/rituals.md",
-    "content/notes/bookclub.md",
     "content/notes/bookclub/Brin on Toad.md",
     "content/notes/gardening/Gardeners Guide.md",
+    "content/notes/bookclub.md",
     "content/notes/zine.md",
-    "content/notes/zine/how2zine.md",
     "content/_index.md",
+    "content/notes/zine/how2zine.md",
     "content/notes/setup.md",
-    "content/notes/showcase.md"
+    "content/notes/showcase.md",
+    "content/notes/hosting.md",
+    "content/notes/ignore notes.md"
   ]
 }
