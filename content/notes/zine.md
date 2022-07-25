@@ -1,5 +1,7 @@
 ---
 title: "🎨 The Zine Workshop"
+tags:
+- garden bed
 ---
 Small little handcrafted piece of print for each other.
 

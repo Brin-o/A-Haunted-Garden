@@ -1,6 +1,7 @@
 ---
 title: "📚 The Bookclub"
 tags:
+- garden bed
 - reading
 - bookclub
 ---
