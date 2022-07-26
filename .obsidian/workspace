@@ -9,19 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/notes/rituals/Summoning a Frog.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "9fa08309f4ff82aa",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "content/notes/sessions/august_haag.md",
             "mode": "source",
             "source": false
           }
@@ -60,6 +48,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "efb6da13a43c2f13",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -81,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "content/notes/sessions/august_haag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +85,39 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "683370a0494d46b9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/notes/sessions/august_haag.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fe271276cdc7be8b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dd72ce3240386c41",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/notes/sessions/august_haag.md"
               }
             }
           }
@@ -99,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9fa08309f4ff82aa",
+  "active": "5ae48c143ee8b235",
   "lastOpenFiles": [
+    "content/notes/sessions.md",
     "content/notes/rituals/Summoning a Frog.md",
+    "content/notes/bookclub/Jen on WHTRTP.md",
+    "conflict-files-obsidian-git.md",
     "content/notes/rituals.md",
     "content/notes/bookclub.md",
     "content/notes/bookclub/Brin on Toad.md",
     "content/notes/gardening/Gardeners Guide.md",
     "content/notes/zine.md",
-    "content/notes/zine/how2zine.md",
-    "content/_index.md",
-    "content/notes/setup.md",
-    "content/notes/showcase.md"
+    "content/notes/zine/how2zine.md"
   ]
 }
