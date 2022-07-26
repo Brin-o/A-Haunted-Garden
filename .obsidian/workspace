@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/notes/sessions/august_haag.md",
+            "file": "content/_index.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/sessions/august_haag.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/sessions/august_haag.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/sessions/august_haag.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -130,8 +130,8 @@
   },
   "active": "5ae48c143ee8b235",
   "lastOpenFiles": [
-    "content/notes/zine/how2zine.md",
     "content/notes/sessions/august_haag.md",
+    "content/notes/zine/how2zine.md",
     "content/notes/bookclub.md",
     "content/notes/rituals.md",
     "content/notes/sessions.md",
