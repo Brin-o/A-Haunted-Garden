@@ -11,6 +11,7 @@ Ideas for Jen's visit to Den Haag
 - Gaming
 	- Lesbian Checkers
 	- Backgammon rematch!
+	- Pyre
 	- Lethal Leagueeeeeeeeeeeeeeee
 - Weed (Edibles?) + Smash Doc
 - Food
@@ -28,6 +29,7 @@ Ideas for Jen's visit to Den Haag
 - Spa day (going to a sauna etc?)
 - B-Grade cinema trip!
 - Museum date?!
+- Mini game-jam?
 
 
 
