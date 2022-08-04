@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "0a264f4d55127656",
+    "id": "acdc588f290965a9",
     "type": "split",
     "children": [
       {
-        "id": "5369e06f3c403331",
+        "id": "649d6e270e0ececa",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -19,11 +19,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0b39ac9afe6ae4b5",
+    "id": "7ab416a8e1c382f6",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "2280cb4b75ec9025",
+        "id": "542f8b32c76cbce2",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -31,7 +31,7 @@
         }
       },
       {
-        "id": "df58f62e489dd88a",
+        "id": "f324a59baf556ac6",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -46,7 +46,7 @@
         }
       },
       {
-        "id": "31beefe5abd740b6",
+        "id": "c48acddfa7a3c117",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -57,7 +57,7 @@
         }
       },
       {
-        "id": "92a2e10e3e21a678",
+        "id": "b0f72252836ae1a2",
         "type": "leaf",
         "state": {
           "type": "starred",
@@ -68,11 +68,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "059203b7f6c9f3eb",
+    "id": "d2d1763fed1b7a8d",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "06d3a3a7c6a6ec3a",
+        "id": "beeff0fe87d73b31",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -89,7 +89,7 @@
         }
       },
       {
-        "id": "9a97d0515404b615",
+        "id": "7551518619279e56",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -101,7 +101,7 @@
         }
       },
       {
-        "id": "ad89bd55b06656e3",
+        "id": "48dd728e9e4039a9",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -113,9 +113,6 @@
     ],
     "currentTab": 0
   },
-  "active": "5369e06f3c403331",
-  "lastOpenFiles": [
-    "content/notes/bookclub/Jen on WHTRTP.md",
-    "content/notes/bookclub/Brin on Toad.md"
-  ]
+  "active": "649d6e270e0ececa",
+  "lastOpenFiles": []
 }
