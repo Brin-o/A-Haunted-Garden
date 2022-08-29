@@ -28,3 +28,9 @@ This is actually the first time I tried binding a zine! It was super fun to put 
 I followed this video to try binding it: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zKYy6G7lIy8?start=260" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![](content/notes/_media/process1.jpg)
+
+![](content/notes/_media/process2.jpg)
+
+![](content/notes/_media/process3.jpg)
