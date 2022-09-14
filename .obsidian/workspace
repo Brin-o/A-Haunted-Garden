@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/notes/zine/how2zine.md",
+            "file": "content/notes/grimoire/przganka.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/zine/how2zine.md",
+                "file": "content/notes/grimoire/przganka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/zine/how2zine.md",
+                "file": "content/notes/grimoire/przganka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/zine/how2zine.md"
+                "file": "content/notes/grimoire/przganka.md"
               }
             }
           }
@@ -125,20 +125,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "6a638b48b5ffb308",
   "lastOpenFiles": [
-    "content/notes/bfgf.md",
-    "content/_index.md",
-    "content/notes/zine.md",
-    "content/notes/bookclub.md",
-    "content/notes/rituals.md",
-    "content/notes/sessions.md",
-    "content/notes/zine/how2zine.md",
-    "content/notes/sessions/august_haag.md",
     "content/notes/bookclub/Jen on WHTRTP.md",
-    "content/notes/bookclub/Brin on Toad.md"
+    "content/notes/gardening/Gardeners Guide.md",
+    "content/notes/rituals.md",
+    "content/notes/bfgf.md",
+    "content/notes/bookclub.md",
+    "content/notes/grimoire.md",
+    "content/notes/grimoire/przganka.md",
+    "content/notes/sessions.md",
+    "content/notes/zine.md",
+    "content/_index.md"
   ]
 }
