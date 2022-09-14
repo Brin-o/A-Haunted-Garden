@@ -14,3 +14,5 @@ They exist together, they can be any gender, they are just an enigma and a perso
 6. compressed bf, uncompressed gf
 7. 3am gf, 7am bf
 8. coffee gf, croissant bf
+9. white coffe bf, black coffe gf
+10. analogue bf, digital gf
