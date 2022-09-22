@@ -12,4 +12,6 @@ Current bookclub schedule:
 - The Common Toad, George Orwell (1946) – 2022.07.04
 	- [Brin’s Notes](notes/bookclub/Brin%20on%20Toad.md)
 - We Had To Remove This Post, Hanna Bervoets (2022)
-- [Jen's Notes](notes/bookclub/Jen%20on%20WHTRTP.md)
+	- [Jen's Notes](notes/bookclub/Jen%20on%20WHTRTP.md)
+- [Occult Poetry](content/notes/bookclub/Occult%20Poetry.md)
+	
